@@ -19,8 +19,8 @@ from within the Lua script by accessing the `os.argv` table.
 ```
 
 ```lua
-os.argv[1] == "lola"
-os.argv[2] == "dog"
+os.argv[2] == "lola"
+os.argv[3] == "dog"
 ```
 
 Disclaimer
